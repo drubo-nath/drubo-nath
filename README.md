@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/drubo-nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drubo-nath" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/drubo_proton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="drubo_proton" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/drubo_noob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="drubo_proton" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/drubo_proton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="drubo_proton" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
