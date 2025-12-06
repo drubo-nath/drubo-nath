@@ -1,20 +1,28 @@
-<h1 align="center">Hi 👋, I'm Drubo Nath</h1>
-<h3 align="center">A passionate self-taught Programmer</h3>
+<h2> Hi, I'm Drubo Nath </h2>
 
-- 🔭 I’m currently working on **MERN STACK**
-
-- 🌱 Focusing on to improve my **problem solving skills and DSA skills to the next level**
-
-- 📫 How to reach me **drubo.nath.official@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/drubo-nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drubo-nath" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/drubo_proton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="drubo_proton" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/drubo_proton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="drubo_proton" height="30" width="40" /></a>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnF5ejRjczc0cHNucGJmdGRzamVtaWUzMzJncDB5NmVvNXVmb244bSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="230">
+<p> I’m currently working on Fullstack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>I authored a book related to Tech <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI2Z29uaDNndmZreWRrMW9objZqOGdpOG1xaDV0dm94d2gybTM4YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oeHA6e7uVHUZy/giphy.gif" width="30"> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+[![LinkedIn: drubo](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drubo-nath/)](https://www.linkedin.com/in/drubo-nath/)
+[![GitHub](https://img.shields.io/github/followers/drubo?label=follow&style=social)](https://github.com/drubo-nath)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drubo-nath&show_icons=true&locale=en&layout=compact" alt="drubo-nath" /></p>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```typescript
+const drubo = {
+  pronouns: "he" as const,
+  code: ["JavaScript", "TypeScript", "Python", "C++", "SQL"],
+  tools: ["Next.js", "React", "Node.js", "PostgreSQL", "MongoDB"],
+  extras: ["Prisma", "Appwrite", "Docker", "LangChain", "Zustand"]
+  
+}
+```
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drubo-nath&theme=default)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy collaborating with people from different backgrounds, teaching what I know, and learning from others.  
+If you want to chat about projects, internships, open‑source, or just say hi, **my DMs are always open**</b> :)</em>
+
+---
